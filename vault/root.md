@@ -5,9 +5,9 @@ desc: ''
 updated: 1610886677101
 created: 1609342918698
 ---
-# Welcome to Knowledge Graph
 
-- mt
-- ml
-- cs
-- qm
+# Digital Garden
+
+**Welcome to the digital garden of Dennis Yurkevich.**
+
+> The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there. -- [Joel Hooks](https://joelhooks.com/digital-garden)

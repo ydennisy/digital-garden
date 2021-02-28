@@ -1,6 +1,6 @@
 ---
 id: 1497dd54-83c0-4be1-9fa2-98433bbdb94b
-title: Qm
+title: Quantum Mechanics
 desc: ''
 updated: 1614533106368
 created: 1614514995846
