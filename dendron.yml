@@ -3,6 +3,8 @@ vaults:
     -
         fsPath: vault
 site:
+    siteUrl: https://ydennisy.github.io
+    assetsPrefix: digital-garden
     copyAssets: true
     siteHierarchies:
         - root

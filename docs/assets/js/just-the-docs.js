@@ -62,7 +62,7 @@
     }
   
     function initNavBar() {
-      return fetch("http://localhost:8080/nav.html").then(function (response) {
+      return fetch("https://ydennisy.github.io/digital-garden/nav.html").then(function (response) {
         return response.text().then((content) => {
           replaceNav(content);
           return;
@@ -80,7 +80,7 @@
     function initSearch() {
       var request = new XMLHttpRequest();
       // TODO: CHECK IF THIS WORKS WITHOUT ABSOLUTE_URL
-      request.open("GET", "http://localhost:8080/assets/js/search-data.json", true);
+      request.open("GET", "https://ydennisy.github.io/digital-garden/assets/js/search-data.json", true);
   
       request.onload = function () {
         if (request.status >= 200 && request.status < 400) {
@@ -514,7 +514,7 @@
       var cssFile = document.querySelector('[rel="stylesheet"]');
       cssFile.setAttribute(
         "href",
-        'http://localhost:8080/assets/css/just-the-docs-' + theme + ".css"
+        'https://ydennisy.github.io/digital-garden/assets/css/just-the-docs-' + theme + ".css"
       );
     };
   
