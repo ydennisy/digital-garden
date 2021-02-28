@@ -19,7 +19,7 @@ $$
 Then we can multiply by a real valued constant $\alpha \in \R$, to get:
 
 $$
-(\alpha E, \alpha B, \alpha\rho, \alphaJ)
+(\alpha E, \alpha B, \alpha\rho, \alpha J)
 $$
 
 Which will also be a solution. Linearity also implies that if we have two solutions:
@@ -34,7 +34,7 @@ $$
 (E_1 + E_2, B_1 + B_2, \rho_1 + \rho_2, J_1 + J_2)
 $$
 
-This new solution can actually be called the **superposition** of the two original solutions. This also means that for a single equation / theory there are many solutions and is related to how a translantic cable can pass millions of simulatneous data streams, without them interferring with each other. 
+This new solution can actually be called the **superposition** of the two original solutions. This illustrates how for a single equation / theory there are many solutions a property which allows a translantic cable to pass millions of simultaneous data streams, without them interferring with one another. 
 
 ## The general case
 
@@ -55,5 +55,5 @@ $$
 where $a$ is a number. The two conditions imply they can be combined
 
 $$
-L(\alpha u_1 _ \beta u_2) = \alpha L u_1 + \beta L u_2
+L(\alpha u_1 \beta u_2) = \alpha L u_1 + \beta L u_2
 $$
