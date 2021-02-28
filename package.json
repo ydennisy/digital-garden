@@ -1,0 +1,27 @@
+{
+  "name": "digital-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydennisy/digital-garden.git"
+  },
+  "keywords": [],
+  "author": "ydennisy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydennisy/digital-garden/issues"
+  },
+  "homepage": "https://github.com/ydennisy/digital-garden#readme",
+  "dependencies": {
+    "@dendronhq/dendron-11ty": "^1.30.1",
+    "@dendronhq/dendron-cli": "^0.30.1"
+  }
+}
