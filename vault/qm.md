@@ -19,7 +19,3 @@ The idea is to attempt to take the shortest path to level which could be describ
 Learning is always best by doing, taking notes and writing in general is a good start, but building experiments or software is even better. A secondary goal will be to try and represent the learnings through a software package, which can represent an interactive simulation.
 
 One other (possible) benefit of being uneducated in classical physics is that we can try and skip some of the intuitions that this would place upon trying to understand QM. If we look at the concept of [wave particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality), we can be confused right away, is an electron a wave or a particle? The universe is not wavering between the two, unable to make up it's mind, it is therefore important to leave these intuitions behind and and accept the electron for whom he/she truly is!
-
-## Topics
-
-[[qm.linearity]]
